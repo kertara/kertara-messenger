@@ -1,5 +1,4 @@
-##**Kertara Messenger**
-
+**Kertara Messenger**
 Kertara Messenger is a privacy-focused communication platform that prioritizes user data security through end-to-end encryption and anonymous routing via the Tor network.
 
 **Key Features**

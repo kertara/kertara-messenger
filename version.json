@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "version": "0.1.0-alpha",
+    "last_updated": "2026-06-19T00:00:00Z"
+  },
+  "compatibility": {
+    "min_required_version": "0.1.0-alpha"
+  },
+  "update_policy": {
+    "force_update": true,
+    "update_url": "https://github.com/kopikering/secura/releases/latest"
+  },
+  "ui_localization": {
+    "title": "Mandatory Security Update",
+    "message": "Your version is outdated. To ensure cryptographic integrity, an update is required."
+  },
+  "maintenance": {
+    "mode": false,
+    "message": "The network is undergoing scheduled maintenance."
+  }
+}

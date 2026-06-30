@@ -1,0 +1,9 @@
+argon2-cffi
+cryptography
+requests
+customtkinter
+stem
+flask
+flask-socketio
+sqlalchemy
+PySocks

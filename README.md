@@ -12,43 +12,30 @@ This project is now **Open Source**, promoting transparency and community collab
 * **Full Control:** You retain complete control over your identity and contact list without any third-party interference.
 
 ## Installation & Development
-
-### For Users
+### For Users (Releases)
 
 1. Download the latest release from the [Releases page](https://github.com/kertara/kertara-messenger/releases).
-2. Extract the files to a folder on your computer.
-3. **Important:** Download the required Tor Expert Bundle based on your system architecture and extract it into the project folder:
-* [Tor Expert Bundle (x86_64)](https://archive.torproject.org/tor-package-archive/torbrowser/15.0.17/tor-expert-bundle-windows-x86_64-15.0.17.tar.gz)
-* [Tor Expert Bundle (i686)](https://archive.torproject.org/tor-package-archive/torbrowser/15.0.17/tor-expert-bundle-windows-i686-15.0.17.tar.gz)
-
-
-4. Run `kertara-messenger-v0.1.0-alpha.exe`.
-5. Wait for the Tor network initialization to reach 100%.
+2. Extract the archive (.rar or .zip) to a folder on your computer.
+3. Run `kertara-messenger-v0.1.0-alpha.exe`.
+4. Wait for the Tor network initialization to reach 100%. (Note: Tor is already included in the release package).
 
 ### For Developers (Contributors)
 
 To run the application from the source code:
-
 1. Clone this repository:
-
 ```bash
 git clone https://github.com/kertara/kertara-messenger.git
-
 ```
-
-2. Download the appropriate Tor Expert Bundle from the links provided in the User section above and extract it into the cloned directory.
+3. **Important:** Download the required Tor Expert Bundle based on your system architecture and extract it into the project folder:
+* [Tor Expert Bundle (x86_64)](https://archive.torproject.org/tor-package-archive/torbrowser/15.0.17/tor-expert-bundle-windows-x86_64-15.0.17.tar.gz)
+* [Tor Expert Bundle (i686)](https://archive.torproject.org/tor-package-archive/torbrowser/15.0.17/tor-expert-bundle-windows-i686-15.0.17.tar.gz)
 3. Install the required dependencies:
-
 ```bash
 pip install -r requirements.txt
-
 ```
-
 4. Run the application:
-
 ```bash
 python main.py
-
 ```
 
 ## Project Status (Alpha)

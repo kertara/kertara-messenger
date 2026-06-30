@@ -1,5 +1,3 @@
----
-
 # Kertara Messenger
 
 Kertara Messenger is a privacy-focused communication platform that prioritizes user data security through end-to-end encryption and anonymous routing via the Tor network.
@@ -62,6 +60,5 @@ This application is currently in the **Alpha** testing phase. Bugs and technical
 This project is open-source and licensed under the **MIT License**.
 *You are permitted to use, modify, and distribute this code in accordance with the terms specified in the [LICENSE](https://raw.githubusercontent.com/kertara/kertara-messenger/refs/heads/main/LICENSE) file.*
 
----
 
 © 2026 Kertara.

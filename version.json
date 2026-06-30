@@ -8,7 +8,7 @@
   },
   "update_policy": {
     "force_update": true,
-    "update_url": "https://github.com/kopikering/secura/releases/latest"
+    "update_url": "https://github.com/kertara/kertara-messenger/releases"
   },
   "ui_localization": {
     "title": "Mandatory Security Update",
